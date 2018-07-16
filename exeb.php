@@ -1,2 +1,2 @@
 <?php
-echo "·ÖÖ§2";
+echo "what are you doing";
